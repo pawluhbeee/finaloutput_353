@@ -116,7 +116,7 @@ footer {
     text-align: center;
     width: 100%;
     font-size: smaller;
-    position: static; 
+    position: absolute; 
     bottom: 0; 
 }
   
