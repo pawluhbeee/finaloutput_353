@@ -16,11 +16,30 @@ body {
     display: flex; 
     flex-direction: column; 
     min-height: 100vh; 
-    background-image: linear-gradient(#0d143c,#18247162), url(../images/00homebg.jpg);
+    background-image: linear-gradient(#0d143c,#18247162), url();
     background-size: cover;
     background-position: center;
     padding: 10px 8%;
     position: relative; 
+}
+
+.welcome-section {
+    color: #f6edc6;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    text-align: justify;
+    width: 100%;
+    max-width: 1300px;
+    animation: fadeIn 1.2s ease-in-out;
+}
+
+.welcome-section h1{
+    margin-bottom: 30px;
+}
+
+.welcome-section p{
+    margin-bottom: 20px;
 }
 
 a {
@@ -130,3 +149,13 @@ footer {
 }
   }
   
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
