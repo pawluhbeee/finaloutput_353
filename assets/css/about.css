@@ -80,19 +80,18 @@ nav ul li a:hover {
 main {
     flex: 1;
     padding: 20px 10%;
-    background: linear-gradient(#f9f9f9, #e6e6e6);
-  }
+    background: #f6edc6;
   
   .welcome-section h1 {
     font-size: 2rem;
-    color: #0d143c;
+    color: #18247162;
     margin-bottom: 20px;
   }
   
   .welcome-section p {
     font-size: 1.1rem;
     line-height: 1.6;
-    color: #333333;
+    color: #18247162;
     margin-bottom: 20px;
   }
   
