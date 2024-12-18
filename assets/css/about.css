@@ -30,7 +30,6 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     text-align: justify;
     width: 100%;
-    max-width: 1300px;
     animation: fadeIn 1.2s ease-in-out;
 }
 
@@ -116,7 +115,7 @@ footer {
     text-align: center;
     width: 100%;
     font-size: smaller;
-    margin-top: auto;
+    position: relative;
     bottom: 0; 
 }
   
