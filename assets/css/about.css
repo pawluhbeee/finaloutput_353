@@ -53,8 +53,14 @@
   }
   
   main {
-    flex: 1;
-    padding: 20px 10%;
+    flex: 1; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    min-height: 100vh;
+    margin-bottom: 150px;
     background: #f6edc6;
   }
   
