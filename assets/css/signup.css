@@ -28,6 +28,9 @@ body {
     animation: fadeIn 1.2s ease-in-out;
 }
 
+a {
+    color: inherit;
+}
 
 h1 {
     color: #182471; 

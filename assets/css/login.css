@@ -16,6 +16,9 @@ body {
     height: 100vh;
 }
 
+a {
+    color: inherit;
+}
 
 .container {
     background-color: #efd3a4; 

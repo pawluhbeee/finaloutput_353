@@ -12,6 +12,10 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a {
+  color: inherit;
+}
+
 .container {
   display: flex; 
   flex-direction: column; 

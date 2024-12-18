@@ -20,6 +20,10 @@
     position: relative; 
   }
   
+  a {
+    color: inherit;
+}
+
   .contact-container {
     background-color: #f6edc6;
     max-width: 500px;
