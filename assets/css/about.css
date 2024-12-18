@@ -22,6 +22,10 @@ body {
     padding: 10px 8%;
     position: relative; 
 }
+
+a {
+    color: inherit;
+  }
   
 nav {
     width: 100%;
