@@ -14,9 +14,10 @@ body {
     height: 100vh;
 }
 
-/* Container */
+
 .container {
     background-color: #efd3a4; 
+    padding: 2rem;
     border-radius: 12px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     text-align: center;
@@ -25,14 +26,14 @@ body {
     animation: fadeIn 1.2s ease-in-out;
 }
 
-/* Heading */
+
 h1 {
     color: #182471; 
     margin-bottom: 0.5rem;
     font-size: 2rem;
 }
 
-/* Form Elements */
+
 form {
     margin: 1.5rem 0;
 }
