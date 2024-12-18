@@ -25,7 +25,6 @@ a {
   background-position: center;
   padding: 10px 8%;
   position: relative; 
-  animation: fadeIn 1.2s ease-in-out;
 }
 
 nav {
@@ -88,6 +87,7 @@ main {
   padding: 20px;
   min-height: 100vh;
   margin-bottom: 150px;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 .welcome-section {
