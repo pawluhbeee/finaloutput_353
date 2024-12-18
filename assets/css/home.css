@@ -94,7 +94,6 @@ main {
   text-align: center;
   margin-bottom: 50px;
   color: #f6edc6;
-  animation: fadeIn 1.2s ease-in-out;
 }
 
 .welcome-section h1 {
@@ -127,6 +126,7 @@ main {
   gap: 20px;
   justify-content: center;
   color: #182471;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 .artwork{
