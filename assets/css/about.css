@@ -116,7 +116,8 @@ footer {
     text-align: center;
     width: 100%;
     font-size: smaller;
-    position: relative; 
+    margin-top: auto;
+    bottom: 0; 
 }
   
 .logo-footer {
