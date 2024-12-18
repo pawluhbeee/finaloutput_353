@@ -87,13 +87,14 @@ main {
   padding: 20px;
   min-height: 100vh;
   margin-bottom: 150px;
-  animation: fadeIn 1.2s ease-in-out;
+  
 }
 
 .welcome-section {
   text-align: center;
   margin-bottom: 50px;
   color: #f6edc6;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 .welcome-section h1 {
